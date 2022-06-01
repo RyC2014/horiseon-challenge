@@ -7,4 +7,4 @@
 * HTML now updated to be semantic
 
 ![Screenshots](/assets/images/Screenshot1.png "Horiseon Challenge")
-![Screenshots](/assets/images/Screenshot2.png "Horiseon Challenge"
+![Screenshots](/assets/images/Screenshot2.png "Horiseon Challenge")
